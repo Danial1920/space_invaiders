@@ -1,7 +1,7 @@
 # space_invaiders 
 # Space Invaders на C++
 
-Консольная версия игры Space Invaders на C++ с использованием ncurses.
+Space Invaders on the C++ language with use ncurses.
 
 ## Установка
 ```bash
